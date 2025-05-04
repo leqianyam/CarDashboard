@@ -1,18 +1,17 @@
 🚗 Car Sales Dashboard (Power BI)
-This interactive Power BI dashboard visualizes car sales across three different models — each with its own dedicated tab and themed background.
+This interactive Power BI report showcases car sales across three unique models, each represented on a separate tab with its own background image.
 
-🧭 Key Features (applies to all tabs):
-🎛️ Filter Menu: Click the top-left button (Ctrl + Click) to open a side filter panel with:
+🔧 Features (available on all tabs)
+-- 🎛️ Filter Menu
+  -- Top-left button (Ctrl + Click) opens a filter panel
+  -- Includes filters for:
+    -- Region
+    -- Shipping Mode
+    -- Car Sellers
+  -- Use Ctrl + Click again to close the panel
 
-Region
+-- 📅 Date Filter
+  -- Top-center slicer to filter data by year
 
-Shipping Mode
-
-Car Sellers
-Use Ctrl + Click again to close it.
-
-📅 Date Filter: A top-centered slicer lets you filter data by Year.
-
-⬅️➡️ Navigation Arrows: Switch between tabs using the left/right arrows (Ctrl + Click).
-
-Each tab shares the same layout but showcases a different car model in the background.
+-- ↔️ Navigation Arrows
+  -- Left and right arrows (Ctrl + Click) allow navigation between car model tabs
