@@ -3,9 +3,9 @@ This interactive Power BI dashboard visualizes car sales across three different 
 
 ***🧭 Key Features (applies to all tabs):***
 🎛️ Filter Menu: Click the top-left button (Ctrl + Click) to open a side filter panel with:
---Region
---Shipping Mode
---Car Sellers
+- Region
+- Shipping Mode
+- Car Sellers
 
 Use Ctrl + Click again to close it.
 
